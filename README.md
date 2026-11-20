@@ -42,8 +42,8 @@ Potrebuješ [Node.js](https://nodejs.org/) (LTS), [Git](https://git-scm.com/) in
 1. Kloniraj repozitorij in odpri mapo projekta:
 
    ```bash
-   git clone <URL-REPOZITORIJA>
-   cd <IME-MAPE>
+   git clone https://github.com/SkyBoy9000/TaskFlow
+   cd TaskFlow
    ```
 
 2. Namesti odvisnosti:
